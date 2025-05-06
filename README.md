@@ -61,3 +61,6 @@ The application uses the Iris dataset (`Iris.csv`), which contains the following
 ## License
 
 This project is licensed under the MIT License.
+
+## Resources
+https://www.pythonguis.com/tutorials/getting-started-with-streamlit/
